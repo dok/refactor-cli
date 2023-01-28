@@ -23,4 +23,3 @@ const makeRequest = async (secret, input, instruction) => {
 };
 
 export default makeRequest;
-// module.exports = makeRequest;
